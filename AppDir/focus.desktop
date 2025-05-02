@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Focus Window
+Exec=focus_if_idle.py
+Icon=focus
+Type=Application
+Categories=Utility;
